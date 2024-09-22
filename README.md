@@ -12,7 +12,7 @@ The application consists a landing page showing what i do, my education backgrou
 * And you are all done
 
 ## Live server
-* You can view the web live on [Portfolio](https://k-koech.github.io/portfolio-sdft11/)
+* You can view the web live on [Portfolio](https://natasherr.github.io/Portfolio/)
 
 ## Known Bugs
 The application works perfectly well.
@@ -24,6 +24,6 @@ HTML, CSS , Fontawesome icons, git
 email :: ashley.natasha1@student.moringaschool.com
 
 ### License
-*LIcenced under the [MT-licence](https://github.com/k-koech/portfolio-sdft11/blob/master/LICENSE.md)*
+*LIcenced under the [MT-licence](https://github.com/natasherr/Portfolio/blob/master/LICENSE.md)
 
 Copyright (c) 2024 **Ashley Natasha Otsiula**
